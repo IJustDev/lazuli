@@ -32,7 +32,7 @@ lazuli
 ## Installation
 1. *You need to have ruby and RubyGems installed.*
 ```sh
-$ gem install --local lazuli
+$ gem install lazuli
 ```
 If this does not work try it with sudo privileges.
 
