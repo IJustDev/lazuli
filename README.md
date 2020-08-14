@@ -30,10 +30,8 @@ lazuli
 ```
 
 ## Installation
-1. *You need to have ruby installed.*
-2. Download the latest gem from the release page.
+1. *You need to have ruby and RubyGems installed.*
 ```sh
-$ cd ~/Downloads
 $ gem install --local lazuli
 ```
 If this does not work try it with sudo privileges.
