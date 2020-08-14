@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="./resources/lapis-logo.svg"/>
     <h1>Lazuli</h1>
     <h3>An Amazon product importer</h3>
 </div>
@@ -9,7 +10,7 @@
 2. [Installation](#installation)
 
 ## What the fuck
-This is an repository that is intended for transforming an Amazon products into an Jekyll post.
+This is an repository that is intended for transforming an Amazon product into an Jekyll post.
 
 
 ## Usage
