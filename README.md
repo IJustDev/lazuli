@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./resources/lapis-logo.svg"/>
+    <img width="320px" src="./resources/lapis-logo.svg"/>
     <h1>Lazuli</h1>
     <h3>An Amazon product importer</h3>
 </div>
