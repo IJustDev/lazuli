@@ -9,8 +9,6 @@
 ![Gem](https://img.shields.io/gem/dt/lazuli?style=for-the-badge)
 ![Version](https://img.shields.io/gem/v/lazuli?style=for-the-badge)
 
-<a href="https://www.buymeacoffee.com/IJustDev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-violet.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 107px !important;" ></a>
-
 </div>
 
 ## Table of Contents
@@ -20,6 +18,9 @@
 
 ## What the fuck
 This is an repository that is intended for transforming an Amazon product into an Jekyll post or any other kind of post using the templaing eninge eruby.
+
+## Support
+<a href="https://www.buymeacoffee.com/IJustDev" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## Usage
 
