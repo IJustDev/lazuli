@@ -9,6 +9,8 @@
 ![Gem](https://img.shields.io/gem/dt/lazuli?style=for-the-badge)
 ![Version](https://img.shields.io/gem/v/lazuli?style=for-the-badge)
 
+<a href="https://www.buymeacoffee.com/IJustDev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-violet.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
 </div>
 
 ## Table of Contents
