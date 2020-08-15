@@ -4,6 +4,11 @@
     <h3>An Amazon product importer</h3>
 </div>
 
+<div align="center">
+![Gem](https://img.shields.io/gem/dt/lazuli)
+![Version](https://img.shields.io/gem/v/lazuli)
+</div>
+
 ## Table of Contents
 1. [What the fuck is this?](#what-the-fuck)
 2. [Usage](#usage)
