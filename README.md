@@ -17,8 +17,7 @@
 2. [Installation](#installation)
 
 ## What the fuck
-This is an repository that is intended for transforming an Amazon product into an Jekyll post.
-
+This is an repository that is intended for transforming an Amazon product into an Jekyll post or any other kind of post using the templaing eninge eruby.
 
 ## Usage
 
@@ -27,18 +26,19 @@ This is an repository that is intended for transforming an Amazon product into a
 First of all you need to create an config file located at your home directory.
 ```sh
 $ cat ~/.lazuli.conf
-# access_key=<your_access_key_here>
-# secret_key=<your_secret_key_here>
-# partner_tag=<your_partner_key_here>
+# Cat output
+access_key=<your_access_key_here>
+secret_key=<your_secret_key_here>
+partner_tag=<your_partner_key_here>
 ```
 
 Then run following command
 ```sh
-lazuli
+$ lazuli
 ```
 
 ## Installation
-1. *You need to have ruby and RubyGems installed.*
+1. *You need to have Ruby and Ruby Gems installed.*
 ```sh
 $ gem install lazuli
 ```
