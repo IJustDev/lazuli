@@ -17,7 +17,7 @@
 2. [Installation](#installation)
 
 ## What the fuck
-This is an repository that is intended for transforming an Amazon product into an Jekyll post or any other kind of post using the templaing eninge eruby.
+This is an repository that is intended for transforming an Amazon product into an Jekyll post or any other kind of post using the templaing engine eruby.
 
 ## Support
 <a href="https://www.buymeacoffee.com/IJustDev" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
