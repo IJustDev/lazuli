@@ -5,8 +5,10 @@
 </div>
 
 <div align="center">
-![Gem](https://img.shields.io/gem/dt/lazuli)
-![Version](https://img.shields.io/gem/v/lazuli)
+
+![Gem](https://img.shields.io/gem/v/lazuli?style=for-the-badge)
+![Version](https://img.shields.io/gem/v/lazuli?style=for-the-badge)
+
 </div>
 
 ## Table of Contents
